@@ -1,6 +1,6 @@
 <div align="center">
 
-# السلام عليكم 👋 Welcome to my space!
+# 👋 Welcome to my space!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey!+I'm+Osama+(zeroxuf)+%F0%9F%91%8B;Arch+Linux+Enthusiast+%F0%9F%90%A7;Rice+Lover+%E2%9C%A8;Anime+Fan+%F0%9F%8E%8C;Developer+%26+Creative+%F0%9F%92%BB" alt="Typing SVG" />
 
