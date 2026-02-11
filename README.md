@@ -173,14 +173,6 @@ print(f"⚡ {me.username} - Turning caffeine into code since {2024 - me.age}")
 
 ## 🎯 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/zeroxuf">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=zeroxuf&repo=dotfiles&theme=react&hide_border=true&bg_color=0D1117&title_color=58E1FF&icon_color=58E1FF&text_color=FFFFFF" />
-</a>
-
-</div>
-
 <table width="100%">
 <tr>
 <th>Project</th>
